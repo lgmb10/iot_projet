@@ -2,6 +2,6 @@
 
 ## lancer le projet
 
-installation : ```npm i```    
-lancer le seeder : ```npm run seed```  
-afficher le nombre de ville par département : ```npm start```
+Installation : ```npm i```    
+Lancer le seeder : ```npm run seed```  
+Afficher le nombre de ville par département : ```npm start```

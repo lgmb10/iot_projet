@@ -7,7 +7,7 @@ const connectDatabase = () => {
         useNewUrlParser: true,
         useUnifiedTopology: true,
     }).then(con => {
-        console.log(`MongoDB Database connected with host ${con.connection.host}`);
+        console.log(`Db connected with host ${con.connection.host}`);
     })
 }
 
